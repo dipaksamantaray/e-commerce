@@ -1,0 +1,48 @@
+footer{
+    background-color: #053460;
+    color:white;
+    padding:100px 0;
+}
+footer h1{
+    margin-bottom:30px;
+    color:#e94560;
+    font-weight:500;
+    font-style:italic;
+}
+footer .img{
+    background-color:#062a4d;
+    padding:1opx 20px;
+    border-radius:5px;
+    margin-left:5px;
+   
+ 
+}
+
+footer .img i{
+    font-size:20px;
+    margin:5px;
+    margin-top:10px;
+}
+
+footer .img span{
+    margin-top:5px;
+  
+ 
+}
+
+footer p{
+    font-size:14px;
+    font-weight:300;
+    opacity:0.5s;
+    margin-bottom:20px;
+}
+
+footer h2{
+    margin-bottom:20px;
+
+}
+
+footer li{
+    margin-bottom:10px;
+    opacity:0.5s;
+}
